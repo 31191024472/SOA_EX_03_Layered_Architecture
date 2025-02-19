@@ -13,7 +13,6 @@ out/
 .DS_Store
 
 # 📂 Bỏ qua các file môi trường (Chứa thông tin bảo mật)
-.env
 .env.local
 .env.development
 .env.production
